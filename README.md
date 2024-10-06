@@ -1,2 +1,6 @@
 # Tugas-1-KI-A
-Implementasi algoritma DES Decryption and Encryption 
+
+Nama  : Azizah Elok Harvianti
+NRP   : 5025221243
+
+Implementasi algoritma DES Decryption, Encryption, dan key generator dengan menggunakan python.
